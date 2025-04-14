@@ -1,4 +1,4 @@
-class Hepmc3 < Formula
+class Hepmc326 < Formula
   desc "C++ event record for Monte Carlo generators"
   homepage "https://hepmc.web.cern.ch/"
   url "https://hepmc.web.cern.ch/hepmc/releases/HepMC3-3.2.6.tar.gz"
